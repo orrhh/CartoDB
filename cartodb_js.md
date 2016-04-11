@@ -16,7 +16,7 @@ sql switching
       layer.setSQL(sql);
     }
   
-    This is where it all starts : 
+This is where it all starts : 
     
       // get it all going!
       var init = function() {
